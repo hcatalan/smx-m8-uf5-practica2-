@@ -1,0 +1,33 @@
+h1 {
+    color: rgba(255, 251, 0, 0.966);
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgba(255, 251, 0, 0.966);
+    font-size: 250%;
+    text-decoration: underline;
+  }
+  
+  p {
+    color: red;
+    text-decoration: overline;
+      
+  }
+
+  li {
+    color: black;
+    list-style-type: circle;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+  }
+
+h3 {
+    color: rgba(255, 251, 0, 0.966);
+    background-color: rgb(0, 0, 0);
+    border: 1px solid rgba(255, 251, 0, 0.966);
+    text-decoration: underline;
+  }
+html {
+    background-color: rgb(214, 212, 212);
+}
+
